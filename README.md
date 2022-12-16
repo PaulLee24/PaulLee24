@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ming-Xian Lee</h1>
 
+### Welcome to my GitHub page! I am currently applying for the Master's program of Computer Science in the US!
+
 <!--
 **PaulLee24/PaulLee24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
