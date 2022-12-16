@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub page! I am currently applying for the Master's program of Computer Science in the US!
 
-#### Programming Languages
+#### Programming Languages:
 
 ![C++](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
