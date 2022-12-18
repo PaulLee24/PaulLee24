@@ -17,6 +17,7 @@
 #### Skills and Tools:
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 <!--
