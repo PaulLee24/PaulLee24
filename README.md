@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ming-Xian Lee</h1>
 
 ### Welcome to my GitHub page!
-### I'm an incoming Master of Computer Science student at the University of Illinois Urbana-Champaign.
+### I'm a Master of Computer Science student at the University of Illinois Urbana-Champaign.
 
 #### Programming Languages:
 
