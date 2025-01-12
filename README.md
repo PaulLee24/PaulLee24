@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ming-Xian Lee</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Paul (Ming-Xian) Lee</h1>
 
 ### Welcome to my GitHub page!
 ### I'm a Master of Computer Science student at the University of Illinois Urbana-Champaign.
